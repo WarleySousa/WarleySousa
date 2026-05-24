@@ -32,8 +32,8 @@ Sou **Engenheiro de Software e Dados** e fundador da **Warley Sousa Engenharia d
 
 Seja para trocar experiências sobre Engenharia de Dados, discutir soluções de software para o seu negócio ou explorar oportunidades de projetos:
 
-* **LinkedIn:** [Acesse meu perfil profissional aqui](https://www.linkedin.com/in/warley-louren%C3%A7o-de-sousa-/)
-* **E-mail:** [Seu E-mail de Contato](warley.sousa8@gmail.com)
+* **LinkedIn:** [Acesse aqui](https://www.linkedin.com/in/warley-louren%C3%A7o-de-sousa-/)
+* **E-mail:** [Acesse aqui](warley.sousa8@gmail.com)
 
 <br>
 
