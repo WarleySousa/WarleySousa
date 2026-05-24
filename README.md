@@ -25,14 +25,6 @@ Sou **Engenheiro de Software e Dados** e fundador da **Warley Sousa Engenharia d
 * **Ferramentas e Práticas:** Git, GitHub, Metodologias Ágeis, Engenharia de Software.
 * **Próximos Passos:** Infraestrutura de Nuvem (Cloud) e Ferramentas de Big Data.
 
----
-
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WarleySousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarleySousa&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
-</div>
 
 ---
 
