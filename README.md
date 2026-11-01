@@ -3,7 +3,7 @@
 **Desenvolvedor Python com foco em Dados** na **Syngular ID** · Python · SQL · PostgreSQL
 Formiga, MG — Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warley-louren%C3%A7o-de-sousa-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warley-sousa)
 [![E-mail](https://img.shields.io/badge/warley.sousa8@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:warley.sousa8@gmail.com)
 
 Depois de 12 anos no setor público, 3 deles em gestão, migrei para a engenharia de software. Hoje trabalho como **desenvolvedor Python com foco em dados na Syngular ID**. Em paralelo, desenvolvo sistemas pela minha empresa, a **Warley Sousa Engenharia de Software**, onde criei a marca **[REYA](https://www.reya.com.br)**.
@@ -56,6 +56,6 @@ Também tenho base em C e Java, da graduação.
 
 After 12 years in the public sector, 3 of them in management, I moved into software engineering. I currently work as a **Python developer focused on data at Syngular ID**. On the side, I build systems through my own company, where I created the **[REYA](https://www.reya.com.br)** brand — a business communication platform running in production on Azure (FastAPI, PostgreSQL, Docker, React). My focus is **data engineering**: relational modeling, Python automation and data pipelines.
 
-Contact: [LinkedIn](https://www.linkedin.com/in/warley-louren%C3%A7o-de-sousa-/) · warley.sousa8@gmail.com
+Contact: [LinkedIn](https://www.linkedin.com/in/warley-sousa) · warley.sousa8@gmail.com
 
 </details>
